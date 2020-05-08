@@ -1,0 +1,18 @@
+{
+	"token": "",
+	"bot_id": 447176783704489985,
+	"default_prefix": ">",
+	"botlog_webhook_url": "",
+	"response_string": {
+		"success": ":white_check_mark:",
+		"error": ":x:"
+	},
+	"owner_ids": [],
+	"anti_bot_farm": {
+		"enabled": false,
+		"leave_guild_if": {
+			"min_member_count": 20,
+			"min_bot_rate": 70.0
+		}
+	}
+}
